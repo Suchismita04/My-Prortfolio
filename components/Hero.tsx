@@ -21,7 +21,7 @@ export default function Hero() {
     >
       {/* Text */}
       <div className="max-w-full md:max-w-[55%] text-center md:text-left">
-        <h1 className="text-[clamp(2rem,5vw,3.5rem)] font-bold mb-3 leading-tight">
+        <h1 className="text-[30px] font-bold mb-3 leading-tight">
           Hi, I&apos;m {heroData.name}
         </h1>
 
