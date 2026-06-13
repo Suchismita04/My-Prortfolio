@@ -1,0 +1,39 @@
+[
+  {
+    "icon": "fa-solid fa-shield-halved",
+    "iconColor": "#dc2626",
+    "bgFrom": "#fee2e2",
+    "bgTo": "#fecaca",
+    "projectType": "Full Stack Development",
+    "tags": ["React.js", "Golang", "MongoDB"],
+    "title": "Incident Response Tool",
+    "description": "Built a cybersecurity incident management platform with alert correlation, incident tracking, investigation dashboards, and log analysis capabilities. Implemented incident workflows and real-time monitoring features for security operations.",
+    "githubUrl": "https://github.com/Suchismita04/Incident-Response-Tool",
+    "liveUrl": "#"
+  },
+  {
+    "icon": "fa-solid fa-user-lock",
+    "iconColor": "#7c3aed",
+    "bgFrom": "#ede9fe",
+    "bgTo": "#ddd6fe",
+    "projectType": "Backend Development",
+    "tags": ["NestJS", "MongoDB", "JWT"],
+    "title": "Authentication System",
+    "description": "Developed a secure authentication and authorization system using NestJS and MongoDB. Implemented user registration, login, JWT authentication, password hashing, role-based access control, and protected API routes.",
+    "githubUrl": "https://github.com/Suchismita04/auth-system-using-nest-js",
+    "liveUrl": "#"
+  },
+  {
+    "icon": "fa-solid fa-microphone-lines",
+    "iconColor": "#0891b2",
+    "bgFrom": "#cffafe",
+    "bgTo": "#a5f3fc",
+
+    "projectType": "Backend Development",
+    "tags": ["NestJS", "PostgreSQL", "Socket.IO"],
+    "title": "English Speaking App",
+    "description": "Built a real-time English speaking practice platform using NestJS, PostgreSQL, and Socket.IO. Implemented live conversation rooms, instant messaging, user matching, and session management to improve spoken English skills.",
+    "githubUrl": "https://github.com/Suchismita04/English-Speaking-App",
+    "liveUrl": "#"
+  }
+]

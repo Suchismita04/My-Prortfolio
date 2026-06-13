@@ -1,0 +1,19 @@
+[
+  {
+    "icon": "fa-solid fa-hospital",
+    "date": "Jan 2025 – Present",
+    "title": "Junior Full Stack Developer",
+    "subtitle": "Matainja Technology",
+    "jobType": "Full Time",
+
+    "description": "Developing and maintaining Hospital Management System modules using Next.js, including responsive UI development, API integration, and performance optimization. Additionally working on a Logistics Management System using Next.js and Golang, developing dashboards, implementing business workflows, and integrating backend services to support logistics operations."
+  },
+  {
+    "icon": "fa-solid fa-cart-shopping",
+    "date": "Feb 2025 - May 2025",
+    "title": "Full Stack Developer",
+    "subtitle": "Bitslate Infotech Pvt Ltd",
+    "jobType": "Freelancing",
+    "description": "Worked on an E-commerce web application using React.js, Node.js, and PostgreSQL. Developed frontend components, integrated APIs, and implemented features related to product management and order processing."
+  }
+]

@@ -1,0 +1,30 @@
+[
+   {
+    "icon": "fa-solid fa-graduation-cap",
+    "date": "2024-2026 (Pursuing)",
+    "title": "Master of Computer Applications (MCA)",
+    "subtitle": "Seacom Engineering College"
+   
+  },
+  {
+    "icon": "fa-solid fa-graduation-cap",
+    "date": "2021-2024",
+    "title": "Bachelor of Computer Applications (BCA)",
+    "subtitle": "Seacom Management College"
+   
+  },
+  {
+    "icon": "fa-solid fa-laptop-code",
+    "date": "2020-2021",
+    "title": "Higher Secondary Education",
+    "subtitle": "Gramya Hitakari Girls' School(H.S)"
+    
+  },
+  {
+    "icon": "fa-solid fa-certificate",
+    "date": "2018-2019",
+    "title": "Secondary Education",
+    "subtitle": "Gramya Hitakari Girls' School(H.S)"
+    
+  }
+]

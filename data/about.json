@@ -1,0 +1,21 @@
+{
+  "description1": "Hello! I'm a passionate Full Stack Software Developer who enjoys bridging the gap between elegant UI design and complex backend logistics. With a keen eye for pristine code and architecture optimization, I build applications that scale effortlessly.",
+  "description2": "When I'm not writing code, you'll find me exploring system design, reading tech blogs, or tinkering with open-source automation scripts.",
+   "skills": [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "React.js",
+    "Next.js",
+    "Node.js",
+    "Express.js",
+    "PostgreSQL",
+    "MongoDB",
+    "Tailwind CSS",
+    "Bootstrap",
+    "Git",
+    "GitHub",
+    "REST API"
+    
+  ]
+}
