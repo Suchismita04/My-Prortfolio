@@ -49,7 +49,7 @@ export default function About() {
             {/* Quick Stats */}
             <div className="grid grid-cols-2 gap-5 mt-10">
               <div className="bg-white p-5 rounded-xl shadow-sm border border-slate-200">
-                <h4 className="text-3xl font-bold text-indigo-600">6+</h4>
+                <h4 className="text-3xl font-bold text-indigo-600">8+</h4>
                 <p className="text-slate-600 mt-1">Months Experience</p>
               </div>
 
